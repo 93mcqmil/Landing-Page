@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Navbar {
+  background-color: orange;
+  height: 100px;
+  padding: 16px;
+  display: flex;
+  justify-content: space-around;
+
+
+
+
+}
+
+.item {
+  display: flex;
+  gap: 20px;
+
+
+
+
+}
