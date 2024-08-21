@@ -5,22 +5,50 @@
 }
 
 .Navbar {
-  background-color: orange;
+
   height: 100px;
   padding: 16px;
   display: flex;
   justify-content: space-around;
-
-
-
-
 }
 
 .item {
   display: flex;
   gap: 20px;
+}
+
+/*******************************/
+.flex-container {
+  height: 260px;
+  padding: 16px;
+  display: flex;
+  gap: 25px;
+
+}
+
+.main-page {
+  width: 7em;
+  margin-left: 5.7em;
+}
+
+.navbar-p {
+  background-color: aqua;
+  width: 23em;
+  margin-left: 11.3em;
+}
+
+.btn {
+  margin-left: 42px;
+  margin-left: 13.5em;
+}
 
 
+
+.img-placeholder {
+  border: 3px solid black;
+  height: 150px;
+  width: 360px;
+  margin-left: 3.8em;
 
 
 }
