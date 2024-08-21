@@ -165,3 +165,23 @@
 
   display: block;
 }
+
+.last-part {
+  border: 2px solid black;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.last-text {
+  border: 2px solid black;
+  padding: 10px;
+  display: flex;
+  height: 100px;
+  width: 800px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+
+}
