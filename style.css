@@ -133,3 +133,35 @@
 
 
 }
+
+
+
+.testimonial-container {
+  height: 300px;
+  width: 1215px;
+  display: flex;
+  justify-content: center;
+  /* border: 3px solid black; */
+  align-items: center;
+  margin-top: 50px;
+  padding: 20px;
+  margin: auto;
+  background-color: #E5E7EB;
+
+
+}
+
+.quote-flex {
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testimonial-text>span {
+  background-color: blue;
+  margin-left: 11em;
+  margin-top: 1em;
+
+  display: block;
+}
