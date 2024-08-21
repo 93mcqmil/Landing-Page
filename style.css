@@ -64,8 +64,8 @@
 
 
 .flex-information {
-  padding-top: 7em;
-  height: 110px;
+  padding-top: 2em;
+  /* height: 260px; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -85,8 +85,8 @@
 
 .quote-container {
   display: flex;
-  height: 160px;
-  padding-top: 7em;
+  /* height: 160px; */
+  /* padding-top: 7em; */
 
   /* border: 3px solid black; */
   justify-content: center;
@@ -96,13 +96,32 @@
 .flex-quote {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  /* gap: 5px; */
+  margin-top: 10px;
+  /* margin-left: 10px; */
+
+}
+
+.flex-quote>p:nth-child(2) {
+  padding-left: 5px;
+}
+
+.flex-quote>p:nth-child(3) {
+  padding-left: 11px;
+}
+
+.flex-quote>p:last-child {
+  padding-left: 11px;
 }
 
 .quote {
-  height: 130px;
-  width: 130px;
-  padding-top: 1em;
+  /* height: 130px; */
+  width: 140px;
+  /* padding-top: 1em; */
+  /* border: 2px solid black; */
+  align-items: center;
+
+
 
 
 }
