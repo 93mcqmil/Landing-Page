@@ -210,8 +210,9 @@
 }
 
 .last-text>span {
-  font-weight: 600;
-  margin-left: 5em;
+  font-weight: bolder;
+  font-size: large;
+  margin-left: 4.5em;
 
 
 
