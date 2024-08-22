@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```powershell
-   git clone <your-repository-url>
+   git clone (https://github.com/93mcqmil/Landing-Page.git)
    cd <your-project-directory>
    npm install
    npm run dev
