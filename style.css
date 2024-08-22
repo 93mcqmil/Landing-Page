@@ -184,7 +184,6 @@
 }
 
 .last-part {
-  border: 2px solid black;
   height: 250px;
   display: flex;
   justify-content: center;
